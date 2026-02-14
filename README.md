@@ -78,14 +78,6 @@ Monitoring coefficients ensures the effect of variables is stable:
 
 ---
 
-### ⏳ Survival Analysis
-
-The following curve shows the probability of 'surviving' (not conceding a goal) as the match progresses, based on the tactical context:
-
-![Goal Survival Curve](./visuals/average_survival_curve_minutes.png)
-
----
-
 ## 📈 Key Findings
 
 **Out-of-Sample Validation (Test Set):**  
